@@ -12,3 +12,6 @@ git branch <branchname>
 
 git switch <branchname>
 
+git switch newbranch
+
+git pull
