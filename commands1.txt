@@ -1,0 +1,14 @@
+hello this is my first commit
+
+git clone <repository url>> for cloning a repository from github
+
+hello
+
+
+
+creating new branch in github
+
+git branch <branchname>
+
+git switch <branchname>
+

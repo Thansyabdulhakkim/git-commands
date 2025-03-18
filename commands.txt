@@ -13,3 +13,11 @@ git commit -m "my first commit"
 hello this is my first commit
 git push-u
 git clone <reposostory url>
+
+
+hello this is my first commit
+git clone<reposotory url>> from cloning a reposostory from github
+git branch newbranch
+git switch newbranch
+git pull
+
